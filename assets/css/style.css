@@ -719,14 +719,6 @@ section {
   line-height: 0;
 }
 
-.services .icon-box:hover .icon {
-  background: #fff;
-}
-
-.services .icon-box:hover .icon i {
-  color: #149ddd;
-}
-
 .services .title {
   margin-left: 80px;
   font-weight: 700;
